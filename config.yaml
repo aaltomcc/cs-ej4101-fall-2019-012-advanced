@@ -1,0 +1,17 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: My New Hugo Site
+theme: cupper-hugo-theme
+
+params:
+  description: Below you can read more thoughts had during a cup of good coffee.
+  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme).
+
+menu:
+  nav:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Blog
+      url: /post/
+      weight: 2
