@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Super Coffee Site</title>
+    <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-012-advanced/</link>
+    <description>Recent content on Super Coffee Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Dec 2019 22:06:59 +0200</lastBuildDate>
+    
+	<atom:link href="https://aaltomcc.github.io/cs-ej4101-fall-2019-012-advanced/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thoughts on learning 012</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-012-advanced/post/blog-post-learning/</link>
+      <pubDate>Mon, 16 Dec 2019 22:22:36 +0200</pubDate>
+      
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-012-advanced/post/blog-post-learning/</guid>
+      <description>The main new thing that I learned during this course was what DevOps actually means. Previously I thought it was a term that focused on continuous integration and continuous deployment but had no idea about the three ways of DevOps, the CAMS model or the fact that culture is a very important part of DevOps.
+Another thing I learned about was the Hugo framework and how it worked. Before this course, I had never even heard of the Hugo framework.</description>
+    </item>
+    
+    <item>
+      <title>What was expected of this course 012</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-012-advanced/post/blog-post-course/</link>
+      <pubDate>Mon, 16 Dec 2019 22:10:48 +0200</pubDate>
+      
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-012-advanced/post/blog-post-course/</guid>
+      <description>Below are a few points regarding what was expected of this course:
+ Learning what DevOps actually means and entails. The word is used by pretty much every company nowadays and if you don&#39;t do it you are considered old fashioned. But I didn&#39;t really have any idea what the term included besides CI/CD. I expected that the course would require utilizing AWS, Azure, Google Cloud or some other cloud computing service.</description>
+    </item>
+    
+  </channel>
+</rss>
