@@ -11,3 +11,5 @@ Needs more coffee for sure.
 ![](images/coffee-cup.jpg)
 
 *Now that's a decent cup of coffee*
+
+Interests mainly surround programming. That includes everything from low-level programming to website development and mobile development. I would really like to learn more about DevOps, cloud computing and other moden must-have software development practices.
