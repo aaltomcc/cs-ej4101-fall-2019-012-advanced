@@ -8,6 +8,6 @@ The creator of this website likes to have a tad bit too much coffee. Hence this 
 
 Needs more coffee for sure.
 
-![](/images/coffee-cup.jpg)
+![](images/coffee-cup.jpg)
 
 *Now that's a decent cup of coffee*
