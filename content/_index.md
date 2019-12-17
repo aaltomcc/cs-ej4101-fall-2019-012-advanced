@@ -1,7 +1,6 @@
 ---
 title: ""
 date: 2019-12-16T22:06:59+02:00
-draft: true
 ---
 
 # About too much coffee
