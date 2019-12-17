@@ -5,7 +5,7 @@ theme: cupper-hugo-theme
 
 params:
   description: Below you can read more thoughts had during a cup of good coffee.
-  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme) and a load of coffee.
+  footer: Made with [Hugo](https://gohugo.io/). Themed by a load of coffee.
 
 menu:
   nav:
